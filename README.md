@@ -22,10 +22,3 @@ Cloud & DevOps: Render, Supabase, Git, GitHub, VS Code, Visual Studio
 Email: pnina22886@gmail.com
 Phone: +972‑58‑322‑8869
 
-Side‑by‑Side Snapshot
-Aspect	Beauty Store	Vacation Rentals
-Purpose	Beauty/cosmetics e‑commerce	Vacation apartment rental management
-Core features	Catalog, cart, orders; layered architecture; DI	Dynamic search; JWT auth; responsive UI
-Stack	Frontend: Angular • Backend: C#/.NET • DB: SQL Server	Frontend: React • Backend: Node.js/Express • DB: MongoDB
-Auth	Form‑based (typical e‑commerce), server‑side validation	JWT‑based auth & refresh tokens
-Data model highlight	Products, Categories, Orders, Users	Listings, Hosts, Bookings, Users
