@@ -1,15 +1,16 @@
 # About Me
-Hi! I'm **Pnina Holtzman**, a passionate Full-Stack Developer with experience in React, Angular, Node.js, C#, Python, and SQL.  
-I leverage modern AI tools to boost development speed and code quality, and I enjoy building secure, scalable, end-to-end systems.  
+Hi! I'm **Pnina Holtzman**, a curious and creative Full-Stack Developer.  
+I love turning ideas into reality, building sleek and secure applications from scratch, and exploring new technologies to make my projects smarter and more efficient.  
 
-**Who I am:**  
-- Ambitious and goal-oriented  
-- Problem solver with a keen eye for detail  
-- Quick learner and highly self-motivated  
-- Team player and mentor  
-- Curious and always exploring new technologies  
+✨ **A little about me:**  
+- Ambitious and energetic, always striving to learn more  
+- Detail-oriented problem solver who enjoys challenges  
+- Team player who loves sharing knowledge and helping others  
+- Passionate about clean code, usability, and beautiful UI  
+- Always curious, I enjoy experimenting with AI tools to boost development  
 
----
+Let's create something amazing together! 🚀
+
 
 ## My Projects
 
@@ -20,7 +21,6 @@ I leverage modern AI tools to boost development speed and code quality, and I en
 | Clicka Coworking Management| Coworking management system: contracts, billing, meeting rooms, expenses, reports | Node.js, React, PostgreSQL, TypeScript | [Repo](link) | —    | Completed |
 | Car Rental System (DB)     | SQL-based car rental management<br>Triggers, functions, stored procedures | SQL Server                            | [Repo](link) | —    | Completed |
 
-> ⚠️ Replace each `link` with the actual GitHub repository URL.
 
 ---
 
