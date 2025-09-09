@@ -16,7 +16,7 @@ Let's create something amazing together! 🚀
 
 | Project Name               | Description                                                                 | Technologies                          | GitHub       | Demo | Status    |
 |----------------------------|-----------------------------------------------------------------------------|--------------------------------------|-------------|------|-----------|
-| BeautyStore                | E-commerce platform for beauty products<br>Layered architecture and dependency injection | React, Angular, C#, SQL Server       | [Repo](link) | —    | Completed |
+| BeautyStore                | E-commerce platform for beauty products<br>Layered architecture and dependency injection | React, Angular, C#, SQL Server       | [Repo](https://github.com/pninaHoltzman/MacProject.git) | —    | Completed |
 | Vacation Rentals           | Vacation apartment rental system<br>Dynamic search, JWT authentication, responsive UI | React, Node.js, MongoDB               | [Repo](link) | —    | Completed |
 | Clicka Coworking Management| Coworking management system: contracts, billing, meeting rooms, expenses, reports | Node.js, React, PostgreSQL, TypeScript | [Repo](https://github.com/pninaHoltzman/Clicka-Coworking-Management.git) | —    | Completed |
 | Car Rental System (DB)     | SQL-based car rental management<br>Triggers, functions, stored procedures | SQL Server                            | [Repo](link) | —    | Completed |
